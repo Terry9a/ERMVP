@@ -1,4 +1,4 @@
-# ERMVP[text](command:workbench.trust.manage)
+# ERMVP
 
 The official implementation of CVPR2024 paper "ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments".
 ![ERMVP_Overview](https://github.com/Terry9a/ERMVP/blob/main/image.png)
