@@ -72,6 +72,7 @@ given, the trainer will discard the `hypes_yaml` and load the `config.yaml` in t
 
 ## Citation
  If you are using our ERMVP for your research, please cite the following paper:
+  ```bibtex
 @InProceedings{Zhang_2024_CVPR,
     author    = {Zhang, Jingyu and Yang, Kun and Wang, Yilei and Wang, Hanqi and Sun, Peng and Song, Liang},
     title     = {ERMVP: Communication-Efficient and Collaboration-Robust Multi-Vehicle Perception in Challenging Environments},
@@ -80,6 +81,6 @@ given, the trainer will discard the `hypes_yaml` and load the `config.yaml` in t
     year      = {2024},
     pages     = {12575-12584}
 }
-
+```
 ## Acknowledgment
 Many thanks to the high-quality dataset and codebase, including [V2XSet](https://drive.google.com/drive/folders/1r5sPiBEvo8Xby-nMaWUTnJIPK6WhY1B6), [OPV2V](https://drive.google.com/drive/folders/1dkDeHlwOVbmgXcDazZvO6TFEZ6V_7WUu), [OpenCOOD](https://github.com/DerrickXuNu/OpenCOOD) and  [Where2comm](https://github.com/MediaBrain-SJTU/Where2comm.git).
