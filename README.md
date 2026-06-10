@@ -37,11 +37,6 @@ python setup.py develop
 
 ```
 
-## Available module codes
-  - [x] FMS
-  - [ ] FSC
-  - [x] AFF
-  - [ ] AEI
 
 ## Note
 You can refer to our previous work [Feaco](https://github.com/jmgu0212/FeaCo) on the basic implementation of the  feature spatial calibration (FSC) module.
